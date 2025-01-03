@@ -15,11 +15,12 @@
         }
         h1 {
             text-align: center;
-            color: #222;
+            color: #007bff;
         }
         p {
             max-width: 800px;
             margin: 10px auto;
+            text-align: center;
         }
         a {
             color: #007bff;
@@ -31,6 +32,7 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
+            text-align: center;
         }
     </style>
 </head>
